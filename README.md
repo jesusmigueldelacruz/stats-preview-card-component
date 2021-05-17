@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/migudebe/stats-preview-card-component)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://migudebe.github.io/stats-preview-card-component/)
 
 ### Built with
 
